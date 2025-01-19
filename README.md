@@ -1,0 +1,2 @@
+# rusty-typerz
+typeracer
